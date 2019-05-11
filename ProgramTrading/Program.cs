@@ -12,7 +12,7 @@ namespace ProgramTrading
         static MrWangConnection MrWangConnection;
         static void Main(string[] args)
         {
-
+            //123
             //第一步.初始化API元件
             init();
 
